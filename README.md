@@ -3,22 +3,29 @@ AppWepp Lista para hacer mercado
 
 NOMBRE DEL PROYECTO
 
-Tienda Tecnológica
+Tu Lista
+
+
 OBJETIVO GENERAL
 
-Diseñar una tienda online tecnológica que permita al cliente acceder y manejar de manera práctica, sencilla y satisfaga las necesidades de los usuarios.
+Diseñar una aplicación, que permita al usuario realizar una lista de mercado, que cuente con diferentes secciones, esta lista permitirá al usuario guardar el costo de los productos y permitirá realizar una comparación entre una compra y otra. 
+
+
 OBJETIVOS ESPECÍFICOS
 
-    Proporcionar un servicio con calidad donde los clientes puedan escoger, visualizar y comprar cualquier accesorio disponible.
-    Satisfacer las necesidades y expectativas de los clientes con atención oportuna y eficiente.
-    Ofrecer una interfaz amigable, ordenada y adaptable para el administrador de la tienda y para los clientes.
+    Proporcionar una app web que le permita al usuario, de forma fácil y practica llevar una lista de mercado, donde pueda escoger, visualizar, modificar, crear y dar precio, a los diferentes productos. Ofrecerá una interfaz que permita al usuario poder comparar entre una compra y otra, de forma amigable. 
+
 
 PLANTEAMIENTO DEL PROBLEMA
 
-Se propone la implementación de una tienda online tecnológica, que permitirá a los clientes interactuar de manera directa desde la comodidad de su hogar realizando pedidos, tramitando el método de pago, realizando soporte técnico y gestionando el despacho del accesorio, además realizará la actualización del inventario y el listado de clientes para el administrador de la tienda.
+Se propone la implementación de una lista de compras, que permita a los usuarios; tener una lista de mercado, la lista se podrá dividir en categorías, y las categorías tendrán ítems los cuales, al ir siendo chequeados permitirán, que le sea asigne un precio, con este precio se realizará las futuras comparaciones entre copras.   
+
+
 ALCANCE DEL PROYECTO
 
-Se realizará una tienda virtual para la ciudad de bogota, el sitio web contará con la sección de inicio, tienda, preguntas frecuentes, métodos de pago, términos y condiciones, carrito, finalizar compra, contáctenos, mi cuenta y catálogos de productos. Así mismo contará con el administrador del sitio donde se podrán eliminar, consultar, modificar y crear productos, promociones y verificación de ventas realizadas.
+La aplicación web, contara con las secciones de; inicio, listas, administración de listas, Gráficos, configuración de usuario y acerca de.  En inicio siempre nos llevara a la pestaña principal, en la sección de listas encontraremos todas las listas, crearemos listas nuevas, podremos copiar listas antiguas. En la sección de Gráficos podremos comparar una lista con otra, en configuración de usuario podremos cambiar la contraseña de nuestro usuario, modificar el nombre de usuario entre otros datos y finalmente, la sección acerca de tendrá toda la información de contrato de la aplicación y preguntas frecuentes.
+
+
 JUSTIFICACIÓN
 
-En la actualidad una tienda tecnológica es un negocio muy viable y lucrativo que se ve en gran parte de la ciudad, sin embargo una tienda tecnológica requiere de una página web para ser más popular, más original y mucho más segura por ende nos interesamos y realizando el respectivo estudio concluimos en realizar una tienda online tecnológica que tenga soporte técnico y que sea amigable, ordenada y adaptable para el cliente donde él pueda escoger, visualizar y comprar los accesorios, también que permita al administrador ver su historial de ventas detalladamente.
+En la actualidad poder hacer seguimiento de nuestros gastos es importante para nuestras finanzas, esto permitirá que sepamos en donde gastamos nuestro dinero, lo que nos ayudará a tomar decisiones más certeras a la hora de eliminar o cambiar un producto, y así aprender y mejorar nuestra vida financiera.
